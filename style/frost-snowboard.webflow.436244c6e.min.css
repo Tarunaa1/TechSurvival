@@ -2428,6 +2428,7 @@ img {
     letter-spacing: -.01em;
     color: #ea95ca !important;
     line-height: normal;
+    font-size: 1.5vw;
 }
 
 .h-h2.is-highlighted {
@@ -6378,7 +6379,7 @@ img {
 }
 @media screen and (min-width:767px) {
     .round_img{
-        height: 700px;
+        height: 500px;
     }
 } 
 @media screen and (max-width:767px) {
