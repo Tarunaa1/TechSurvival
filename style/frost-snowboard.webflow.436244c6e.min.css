@@ -2428,7 +2428,7 @@ img {
     letter-spacing: -.01em;
     color: #ea95ca !important;
     line-height: normal;
-    font-size: 1.5vw;
+    /* font-size: 1.5vw; */
 }
 
 .h-h2.is-highlighted {
@@ -6138,7 +6138,7 @@ img {
     .h-h2.is-collections-main.is-default.is-three,
     .h-h2.is-collections-main.is-default.is-one {
         letter-spacing: -.02em;
-        font-size: 12.3vw;
+        /* font-size: 12.3vw; */
         line-height: 9.5vw
     }
     .h-h3.is-tech-counter {
@@ -6210,7 +6210,7 @@ img {
     .h-h5.is-collections-main.is-default.is-three,
     .h-h5.is-collections-main.is-default.is-one,
     .h-h5.is-tech {
-        font-size: 5vw;
+        /* font-size: 5vw; */
         line-height: 4.3vw
     }
     .h-h6.is-tech.is-active.is-quakeshift,
