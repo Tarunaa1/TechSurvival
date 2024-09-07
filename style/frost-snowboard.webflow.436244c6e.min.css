@@ -6686,8 +6686,13 @@ img {
 
     text-align: center;
 }
+@media screen and (max-width:1200px) {
+    .round_img{
+        height: 500px;
+    }    
+}
 .round_img img{
-    /* height: 100%; */
+    height: 100%;
 }
 @media screen and (max-width:479px) {
     
